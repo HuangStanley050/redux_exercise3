@@ -1,0 +1,13 @@
+.course_wrap {
+    width: 20%;
+    height: 200px;
+    background-color: orange;
+}
+
+h3.course {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
